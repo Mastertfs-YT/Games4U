@@ -7,7 +7,7 @@
 5. Add 404 page
 6. Add 403 page
 
-# Ian
+# ProgrammerG1
 1. Combine images
 2. Add text and links to the rest of the empty pages
 3. 
